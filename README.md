@@ -1,10 +1,10 @@
-# Awesome Old Internet
-
 ![Under Construction GIF](./banner.png)
+
+# Awesome Old Internet
+> Restoring the Golden Age of the Internet Aesthetic
 
 This repository is a curated index of community projects, userscripts, and themes dedicated to restoring the beloved user interfaces, layouts, and functionalities of classic internet platforms from the late 1990s through the mid-2010s (the Web 1.0 and early Web 2.0 eras).
 
-> Restoring the Golden Age of the Internet Aesthetic
 
 ## 🧭 Table of Contents
 
