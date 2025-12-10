@@ -111,7 +111,8 @@ Essential tools, archives, and resources for truly immersing yourself in the awe
 
 - **[Yesterweb Webring](https://yesterweb.org/webring/)**: Community of sites dedicated to the old web spirit.
 - **[Sadgrl Webring](https://sadgrl.online/webring/)**: Another active webring for personal, old-style sites.
-- **[Webring Directory](https://webring.directory/)**: Directory of active webrings.
+- **[Webring Directory 1](https://webring.directory/)**: Directory of active old sites.
+- **[Webring Directory 2](https://brisray.com/web/webring-list.htm)**: Directory of old sites.
 - **[Blinkies.Cafe](https://blinkies.cafe/)**: Huge archive of classic blinkies and web graphics.
 - **[GifCities](https://gifcities.org/)**: Searchable archive of GeoCities GIFs.
 - **[88x31 Button Archive](https://cyber.dabamos.de/88x31/)**: Collection of classic 88x31 web buttons.
